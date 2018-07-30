@@ -6,7 +6,6 @@ int main()
 
 	double total, amount, pennies;
 	int quarters, nickels, dimes;
-	char ans;
 	
 	
 		cout<<"Enter the amount of money in United States Dollars."<<endl;
